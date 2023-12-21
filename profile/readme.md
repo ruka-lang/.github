@@ -5,7 +5,7 @@
 
 General purpose, statically typed, programming language.
 
-[Read the docs](https://www.rexlang.org)
+[Read the docs](https://www.rexlang.org) |
 [Repositories](https://www.github.com/rexlang/rex)
 <!--
 
