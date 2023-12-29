@@ -7,8 +7,8 @@ General purpose, statically typed, programming language.
 
 Disclaimer: Not yet ready for use!
 
-[Read the docs](https://www.rexlang.org) |
-[Repositories](https://www.github.com/rexlang/rex)
+[Read the docs](https://www.cosmic-lang.org) |
+[Repositories](https://www.github.com/cosmic-lang/cosmic)
 <!--
 
 **Here are some ideas to get you started:**
