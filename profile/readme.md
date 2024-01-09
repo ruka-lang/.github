@@ -7,8 +7,8 @@ General purpose, statically typed, programming language.
 
 Disclaimer: Not yet ready for use!
 
-[Read the docs](https://www.conjure-lang.org) |
-[Repositories](https://www.github.com/conjure-lang/conjure)
+[Read the docs](https://www.ghoose-lang.org) |
+[Repositories](https://www.github.com/ghoose-lang/ghoose)
 <!--
 
 **Here are some ideas to get you started:**
