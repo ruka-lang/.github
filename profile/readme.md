@@ -7,8 +7,14 @@ General purpose, statically typed, programming language.
 
 Disclaimer: Not yet ready for use!
 
-[Read the docs](https://www.ruka-lang.org) |
-[Repositories](https://www.github.com/ruka-lang/ruka)
+[Read the docs](https://www.ruka-lang.org)
+
+## Important Repositories
+- [Tool-chain](https://www.github.com/ruka-lang/rukaup)
+- [Standard Library](https://www.github.com/ruka-lang/ruka-std)
+- [Language Server](https://www.github.com/ruka-lang/ruka-ls)
+- [Compiler](https://www.github.com/ruka-lang/rukac)
+
 <!--
 
 **Here are some ideas to get you started:**
