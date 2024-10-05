@@ -11,9 +11,9 @@ Disclaimer: Not yet ready for use!
 
 ## Important Repositories
 - [Tool-chain](https://www.github.com/ruka-lang/rukaup)
+- [Build Tool](https://www.github.com/ruka-lang/ruka)
 - [Standard Library](https://www.github.com/ruka-lang/ruka-std)
 - [Language Server](https://www.github.com/ruka-lang/ruka-ls)
-- [Compiler](https://www.github.com/ruka-lang/rukac)
 
 <!--
 
