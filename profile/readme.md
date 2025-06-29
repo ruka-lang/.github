@@ -10,8 +10,8 @@ Disclaimer: Not yet ready for use!
 [Read the docs](https://www.ruka-lang.org)
 
 ## Important Repositories
-- [Tool-chain](https://www.github.com/ruka-lang/rukaup)
-- [Build Tool](https://www.github.com/ruka-lang/ruka)
+- [Toolchain Manager](https://www.github.com/ruka-lang/rukaup)
+- [Main Repository](https://www.github.com/ruka-lang/ruka)
 - [Standard Library](https://www.github.com/ruka-lang/ruka-std)
 - [Language Server](https://www.github.com/ruka-lang/ruka-ls)
 
